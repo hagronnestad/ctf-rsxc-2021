@@ -10,7 +10,7 @@ Let's have a look at the website. We got a nice xmas card! 🎅
 
 ![](00.png "")
 
-Looks like the xmas card is loaded from `/index`. Let's have a look.
+Looks like the xmas card is loaded from `/files`. Let's have a look.
 
 ![](01.png "")
 
